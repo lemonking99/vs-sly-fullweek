@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sly_assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sly idle dance0000" x="0" y="0" width="467" height="786" frameX="0" frameY="-14" frameWidth="467" frameHeight="800"/>
+	<SubTexture name="sly idle dance0001" x="0" y="0" width="467" height="786" frameX="0" frameY="-14" frameWidth="467" frameHeight="800"/>
+	<SubTexture name="sly idle dance0002" x="467" y="0" width="467" height="794" frameX="0" frameY="-6" frameWidth="467" frameHeight="800"/>
+	<SubTexture name="sly idle dance0003" x="467" y="0" width="467" height="794" frameX="0" frameY="-6" frameWidth="467" frameHeight="800"/>
+	<SubTexture name="sly idle dance0004" x="934" y="0" width="461" height="799" frameX="0" frameY="0" frameWidth="467" frameHeight="800"/>
+	<SubTexture name="sly idle dance0005" x="934" y="0" width="461" height="799" frameX="0" frameY="0" frameWidth="467" frameHeight="800"/>
+	<SubTexture name="sly idle dance0006" x="1395" y="0" width="458" height="789" frameX="0" frameY="-10" frameWidth="467" frameHeight="800"/>
+	<SubTexture name="sly idle dance0007" x="1395" y="0" width="458" height="789" frameX="0" frameY="-10" frameWidth="467" frameHeight="800"/>
+	<SubTexture name="sly idle dance0008" x="1853" y="0" width="456" height="786" frameX="0" frameY="-13" frameWidth="467" frameHeight="800"/>
+	<SubTexture name="sly idle dance0009" x="1853" y="0" width="456" height="786" frameX="0" frameY="-13" frameWidth="467" frameHeight="800"/>
+	<SubTexture name="sly idle dance0010" x="1853" y="0" width="456" height="786" frameX="0" frameY="-13" frameWidth="467" frameHeight="800"/>
+	<SubTexture name="sly idle dance0011" x="1853" y="0" width="456" height="786" frameX="0" frameY="-13" frameWidth="467" frameHeight="800"/>
+	<SubTexture name="sly Sing Note DOWN0000" x="2309" y="0" width="434" height="822" frameX="0" frameY="-8" frameWidth="434" frameHeight="831"/>
+	<SubTexture name="sly Sing Note DOWN0001" x="2309" y="0" width="434" height="822" frameX="0" frameY="-8" frameWidth="434" frameHeight="831"/>
+	<SubTexture name="sly Sing Note DOWN0002" x="2743" y="0" width="429" height="831" frameX="0" frameY="0" frameWidth="434" frameHeight="831"/>
+	<SubTexture name="sly Sing Note DOWN0003" x="2743" y="0" width="429" height="831" frameX="0" frameY="0" frameWidth="434" frameHeight="831"/>
+	<SubTexture name="sly Sing Note DOWN0004" x="2743" y="0" width="429" height="831" frameX="0" frameY="0" frameWidth="434" frameHeight="831"/>
+	<SubTexture name="sly Sing Note DOWN0005" x="2743" y="0" width="429" height="831" frameX="0" frameY="0" frameWidth="434" frameHeight="831"/>
+	<SubTexture name="sly Sing Note DOWN0006" x="2743" y="0" width="429" height="831" frameX="0" frameY="0" frameWidth="434" frameHeight="831"/>
+	<SubTexture name="sly Sing Note DOWN0007" x="2743" y="0" width="429" height="831" frameX="0" frameY="0" frameWidth="434" frameHeight="831"/>
+	<SubTexture name="sly Sing Note DOWN0008" x="2743" y="0" width="429" height="831" frameX="0" frameY="0" frameWidth="434" frameHeight="831"/>
+	<SubTexture name="sly Sing Note DOWN0009" x="2743" y="0" width="429" height="831" frameX="0" frameY="0" frameWidth="434" frameHeight="831"/>
+	<SubTexture name="sly Sing Note DOWN0010" x="2743" y="0" width="429" height="831" frameX="0" frameY="0" frameWidth="434" frameHeight="831"/>
+	<SubTexture name="sly Sing Note DOWN0011" x="2743" y="0" width="429" height="831" frameX="0" frameY="0" frameWidth="434" frameHeight="831"/>
+	<SubTexture name="sly Sing Note DOWN0012" x="2743" y="0" width="429" height="831" frameX="0" frameY="0" frameWidth="434" frameHeight="831"/>
+	<SubTexture name="sly Sing Note DOWN0013" x="2743" y="0" width="429" height="831" frameX="0" frameY="0" frameWidth="434" frameHeight="831"/>
+	<SubTexture name="sly Sing Note DOWN0014" x="2743" y="0" width="429" height="831" frameX="0" frameY="0" frameWidth="434" frameHeight="831"/>
+	<SubTexture name="sly Sing Note LEFT0000" x="3172" y="0" width="392" height="827" frameX="0" frameY="-1" frameWidth="410" frameHeight="828"/>
+	<SubTexture name="sly Sing Note LEFT0001" x="3172" y="0" width="392" height="827" frameX="0" frameY="-1" frameWidth="410" frameHeight="828"/>
+	<SubTexture name="sly Sing Note LEFT0002" x="3564" y="0" width="404" height="828" frameX="-6" frameY="0" frameWidth="410" frameHeight="828"/>
+	<SubTexture name="sly Sing Note LEFT0003" x="3564" y="0" width="404" height="828" frameX="-6" frameY="0" frameWidth="410" frameHeight="828"/>
+	<SubTexture name="sly Sing Note LEFT0004" x="3564" y="0" width="404" height="828" frameX="-6" frameY="0" frameWidth="410" frameHeight="828"/>
+	<SubTexture name="sly Sing Note LEFT0005" x="3564" y="0" width="404" height="828" frameX="-6" frameY="0" frameWidth="410" frameHeight="828"/>
+	<SubTexture name="sly Sing Note LEFT0006" x="3564" y="0" width="404" height="828" frameX="-6" frameY="0" frameWidth="410" frameHeight="828"/>
+	<SubTexture name="sly Sing Note LEFT0007" x="3564" y="0" width="404" height="828" frameX="-6" frameY="0" frameWidth="410" frameHeight="828"/>
+	<SubTexture name="sly Sing Note LEFT0008" x="3564" y="0" width="404" height="828" frameX="-6" frameY="0" frameWidth="410" frameHeight="828"/>
+	<SubTexture name="sly Sing Note LEFT0009" x="3564" y="0" width="404" height="828" frameX="-6" frameY="0" frameWidth="410" frameHeight="828"/>
+	<SubTexture name="sly Sing Note LEFT0010" x="3564" y="0" width="404" height="828" frameX="-6" frameY="0" frameWidth="410" frameHeight="828"/>
+	<SubTexture name="sly Sing Note LEFT0011" x="3564" y="0" width="404" height="828" frameX="-6" frameY="0" frameWidth="410" frameHeight="828"/>
+	<SubTexture name="sly Sing Note LEFT0012" x="3564" y="0" width="404" height="828" frameX="-6" frameY="0" frameWidth="410" frameHeight="828"/>
+	<SubTexture name="sly Sing Note LEFT0013" x="3564" y="0" width="404" height="828" frameX="-6" frameY="0" frameWidth="410" frameHeight="828"/>
+	<SubTexture name="sly Sing Note LEFT0014" x="3564" y="0" width="404" height="828" frameX="-6" frameY="0" frameWidth="410" frameHeight="828"/>
+	<SubTexture name="sly Sing Note RIGHT0000" x="0" y="831" width="430" height="801" frameX="-4" frameY="0" frameWidth="434" frameHeight="801"/>
+	<SubTexture name="sly Sing Note RIGHT0001" x="0" y="831" width="430" height="801" frameX="-4" frameY="0" frameWidth="434" frameHeight="801"/>
+	<SubTexture name="sly Sing Note RIGHT0002" x="430" y="831" width="430" height="799" frameX="0" frameY="-2" frameWidth="434" frameHeight="801"/>
+	<SubTexture name="sly Sing Note RIGHT0003" x="430" y="831" width="430" height="799" frameX="0" frameY="-2" frameWidth="434" frameHeight="801"/>
+	<SubTexture name="sly Sing Note RIGHT0004" x="430" y="831" width="430" height="799" frameX="0" frameY="-2" frameWidth="434" frameHeight="801"/>
+	<SubTexture name="sly Sing Note RIGHT0005" x="430" y="831" width="430" height="799" frameX="0" frameY="-2" frameWidth="434" frameHeight="801"/>
+	<SubTexture name="sly Sing Note RIGHT0006" x="430" y="831" width="430" height="799" frameX="0" frameY="-2" frameWidth="434" frameHeight="801"/>
+	<SubTexture name="sly Sing Note RIGHT0007" x="430" y="831" width="430" height="799" frameX="0" frameY="-2" frameWidth="434" frameHeight="801"/>
+	<SubTexture name="sly Sing Note RIGHT0008" x="430" y="831" width="430" height="799" frameX="0" frameY="-2" frameWidth="434" frameHeight="801"/>
+	<SubTexture name="sly Sing Note RIGHT0009" x="430" y="831" width="430" height="799" frameX="0" frameY="-2" frameWidth="434" frameHeight="801"/>
+	<SubTexture name="sly Sing Note RIGHT0010" x="430" y="831" width="430" height="799" frameX="0" frameY="-2" frameWidth="434" frameHeight="801"/>
+	<SubTexture name="sly Sing Note RIGHT0011" x="430" y="831" width="430" height="799" frameX="0" frameY="-2" frameWidth="434" frameHeight="801"/>
+	<SubTexture name="sly Sing Note RIGHT0012" x="430" y="831" width="430" height="799" frameX="0" frameY="-2" frameWidth="434" frameHeight="801"/>
+	<SubTexture name="sly Sing Note RIGHT0013" x="430" y="831" width="430" height="799" frameX="0" frameY="-2" frameWidth="434" frameHeight="801"/>
+	<SubTexture name="sly Sing Note UP0000" x="860" y="831" width="477" height="830"/>
+	<SubTexture name="sly Sing Note UP0001" x="860" y="831" width="477" height="830"/>
+	<SubTexture name="sly Sing Note UP0002" x="1337" y="831" width="466" height="807" frameX="-11" frameY="-23" frameWidth="477" frameHeight="830"/>
+	<SubTexture name="sly Sing Note UP0003" x="1337" y="831" width="466" height="807" frameX="-11" frameY="-23" frameWidth="477" frameHeight="830"/>
+	<SubTexture name="sly Sing Note UP0004" x="1337" y="831" width="466" height="807" frameX="-11" frameY="-23" frameWidth="477" frameHeight="830"/>
+	<SubTexture name="sly Sing Note UP0005" x="1337" y="831" width="466" height="807" frameX="-11" frameY="-23" frameWidth="477" frameHeight="830"/>
+	<SubTexture name="sly Sing Note UP0006" x="1337" y="831" width="466" height="807" frameX="-11" frameY="-23" frameWidth="477" frameHeight="830"/>
+	<SubTexture name="sly Sing Note UP0007" x="1337" y="831" width="466" height="807" frameX="-11" frameY="-23" frameWidth="477" frameHeight="830"/>
+	<SubTexture name="sly Sing Note UP0008" x="1337" y="831" width="466" height="807" frameX="-11" frameY="-23" frameWidth="477" frameHeight="830"/>
+	<SubTexture name="sly Sing Note UP0009" x="1337" y="831" width="466" height="807" frameX="-11" frameY="-23" frameWidth="477" frameHeight="830"/>
+	<SubTexture name="sly Sing Note UP0010" x="1337" y="831" width="466" height="807" frameX="-11" frameY="-23" frameWidth="477" frameHeight="830"/>
+	<SubTexture name="sly Sing Note UP0011" x="1337" y="831" width="466" height="807" frameX="-11" frameY="-23" frameWidth="477" frameHeight="830"/>
+	<SubTexture name="sly Sing Note UP0012" x="1337" y="831" width="466" height="807" frameX="-11" frameY="-23" frameWidth="477" frameHeight="830"/>
+	<SubTexture name="sly Sing Note UP0013" x="1337" y="831" width="466" height="807" frameX="-11" frameY="-23" frameWidth="477" frameHeight="830"/>
+	<SubTexture name="sly Sing Note UP0014" x="1337" y="831" width="466" height="807" frameX="-11" frameY="-23" frameWidth="477" frameHeight="830"/>
+</TextureAtlas>

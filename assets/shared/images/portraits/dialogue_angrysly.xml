@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogue_angrysly.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dialogue_skyangry_A0000" x="0" y="0" width="408" height="597" frameX="-23" frameY="-1" frameWidth="460" frameHeight="598"/>
+	<SubTexture name="dialogue_skyangry_A0001" x="408" y="0" width="444" height="579" frameX="0" frameY="0" frameWidth="460" frameHeight="598"/>
+	<SubTexture name="dialogue_skyangry_A0002" x="852" y="0" width="431" height="573" frameX="-4" frameY="0" frameWidth="460" frameHeight="598"/>
+	<SubTexture name="dialogue_skyangry_A0003" x="1283" y="0" width="450" height="573" frameX="-10" frameY="0" frameWidth="460" frameHeight="598"/>
+	<SubTexture name="dialogue_skyangry_A0004" x="1733" y="0" width="342" height="573" frameX="-44" frameY="0" frameWidth="460" frameHeight="598"/>
+	<SubTexture name="dialogue_skyangry_B0000" x="2075" y="0" width="444" height="584" frameX="-23" frameY="-2" frameWidth="467" frameHeight="591"/>
+	<SubTexture name="dialogue_skyangry_B0001" x="2519" y="0" width="438" height="572" frameX="0" frameY="-19" frameWidth="467" frameHeight="591"/>
+	<SubTexture name="dialogue_skyangry_B0002" x="2957" y="0" width="419" height="566" frameX="-22" frameY="-7" frameWidth="467" frameHeight="591"/>
+	<SubTexture name="dialogue_skyangry_B0003" x="3376" y="0" width="414" height="572" frameX="-34" frameY="0" frameWidth="467" frameHeight="591"/>
+	<SubTexture name="dialogue_skyangry_B0004" x="0" y="597" width="402" height="572" frameX="-20" frameY="0" frameWidth="467" frameHeight="591"/>
+	<SubTexture name="dialogue_skyangry_C0000" x="402" y="597" width="420" height="576" frameX="0" frameY="-13" frameWidth="420" frameHeight="633"/>
+	<SubTexture name="dialogue_skyangry_C0001" x="822" y="597" width="372" height="588" frameX="-13" frameY="0" frameWidth="420" frameHeight="633"/>
+	<SubTexture name="dialogue_skyangry_C0002" x="1194" y="597" width="389" height="627" frameX="-11" frameY="-6" frameWidth="420" frameHeight="633"/>
+	<SubTexture name="dialogue_skyangry_C0003" x="1583" y="597" width="366" height="621" frameX="-17" frameY="-6" frameWidth="420" frameHeight="633"/>
+	<SubTexture name="dialogue_skyangry_C0004" x="1949" y="597" width="390" height="576" frameX="-9" frameY="-11" frameWidth="420" frameHeight="633"/>
+</TextureAtlas>
