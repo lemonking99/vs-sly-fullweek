@@ -29,6 +29,7 @@ class FreeplayState extends MusicBeatState
 	var diffText:FlxText;
 	var lerpScore:Int = 0;
 	var intendedScore:Int = 0;
+	var konamicodepresses:Int = 0;
 
 	private var grpSongs:FlxTypedGroup<Alphabet>;
 	private var curPlaying:Bool = false;
@@ -189,16 +190,48 @@ class FreeplayState extends MusicBeatState
 		if (upP)
 		{
 			changeSelection(-1);
+			if (konamicodepresses == 7)
+			{
+
+			}
+			else
+			{
+			konamicodepresses += 1;	
+			}
 		}
 		if (downP)
 		{
 			changeSelection(1);
+			if (konamicodepresses == 7)
+			{
+
+			}
+			else
+			{
+			konamicodepresses += 1;	
+			}
 		}
 
 		if (controls.LEFT_P)
 			changeDiff(-1);
+			if (konamicodepresses == 7)
+			{
+
+			}
+			else
+			{
+			konamicodepresses += 1;	
+			}
 		if (controls.RIGHT_P)
 			changeDiff(1);
+			if (konamicodepresses == 7)
+			{
+				FlxG.save.data.konami = true;
+			}
+			else
+			{
+			konamicodepresses += 1;	
+			}
 
 		if (controls.BACK)
 		{
